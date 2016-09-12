@@ -1,0 +1,8 @@
+use_frameworks!
+
+target "testmaps" do
+# Begin Podfile - /Users/rajesh/Documents/Projects/NativeScript/EXPERIMENT/test_maps/node_modules/nativescript-google-maps-sdk/platforms/ios/Podfile 
+ pod 'GoogleMaps' 
+ # End Podfile 
+
+end
